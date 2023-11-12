@@ -1,0 +1,3 @@
+In graf sunt 0 noduri
+
+Matricea de adiacenta: 
